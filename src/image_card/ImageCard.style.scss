@@ -1,0 +1,12 @@
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+img:hover {
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  transform: scale(1.1);
+
+}

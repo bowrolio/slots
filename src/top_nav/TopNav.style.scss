@@ -1,0 +1,69 @@
+@use '../styles/colours' as colours;
+.TopNav {
+  width: 83%;
+  margin: 0 auto;
+}
+
+.mobile, .desktop {
+  margin: 0px;
+  padding: 0px;
+}
+
+.form-field {
+  width: 15em;
+  height: 35px;
+  margin-top: 4px;
+}
+
+.button {
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  width: 32px;
+
+  p {
+    font-size: 0.7em;
+  }
+}
+
+.button:hover {
+  color: colours.$text-hover;
+  transition-duration: 0.3s;
+}
+
+@media (max-width: 551px) {
+  .mobile {
+    display: inline-block;
+  }
+
+  .form-field {
+    width: 100%;
+  }
+
+  .buttons {
+    margin: 0 auto;
+    padding-top: 8px;
+    font-size: 1.2em;
+  }
+
+  .button {
+    padding-right: 76px;
+    text-align: center;
+    margin: 0 auto;
+
+  }
+
+  .desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 552px) {
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: inline-block;
+  }
+}

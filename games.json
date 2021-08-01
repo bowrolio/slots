@@ -1,0 +1,261 @@
+[{
+  "id": 1,
+  "name": "Hotline",
+  "image": {
+    "name": "one",
+    "type": "jpg"
+  },
+  "start": "2021-08-01T00:00:00",
+  "expires": "2021-08-15T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 2,
+  "name": "Vegas Night Life",
+  "image": {
+    "name": "two",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 3,
+  "name": "All Aboard",
+  "image": {
+    "name": "three",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 4,
+  "name": "Riverboat Queen",
+  "image": {
+    "name": "four",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 5,
+  "name": "Black Diamond",
+  "image": {
+    "name": "five",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 6,
+  "name": "China Mystery",
+  "image": {
+    "name": "six",
+    "type": "jpg"
+  },
+  "start": "2021-07-29T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 7,
+  "name": "Beticus Maximus",
+  "image": {
+    "name": "seven",
+    "type": "jpg"
+  },
+  "start": "2021-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 8,
+  "name": "Golden Wolves",
+  "image": {
+    "name": "eight",
+    "type": "jpg"
+  },
+  "start": "2021-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 9,
+  "name": "Gypsy Riches",
+  "image": {
+    "name": "nine",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 10,
+  "name": "Cash Machine",
+  "image": {
+    "name": "ten",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 11,
+  "name": "China Shores",
+  "image": {
+    "name": "eleven",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 12,
+  "name": "American Roulette",
+  "image": {
+    "name": "twelve",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 13,
+  "name": "Willy's Hot Chillies",
+  "image": {
+    "name": "thirteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 14,
+  "name": "Amaxon Jewels",
+  "image": {
+    "name": "fourteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 15,
+  "name": "Triple X Threat",
+  "image": {
+    "name": "fifteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 16,
+  "name": "High Voltage Blackout",
+  "image": {
+    "name": "sixteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 17,
+  "name": "Imperial Wealth",
+  "image": {
+    "name": "seventeen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 18,
+  "name": "Big Prize Bubblegum",
+  "image": {
+    "name": "eighteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+},{
+  "id": 19,
+  "name": "Prairie Thunder Keno",
+  "image": {
+    "name": "nineteen",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": false
+  }
+},{
+  "id": 20,
+  "name": "Zoltar Speaks",
+  "image": {
+    "name": "twenty",
+    "type": "jpg"
+  },
+  "start": "2020-08-01T00:00:00",
+  "expires": "2021-12-31T23:59:59",
+  "newPeriod": 30,
+  "flags": {
+    "top": true
+  }
+}]

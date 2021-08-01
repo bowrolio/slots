@@ -1,0 +1,11 @@
+@use './styles/colours' as colours;
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    height: 100%;
+    background-color: colours.$default-background;
+}
+
+.app {
+    margin: 12px;
+}
